@@ -1,0 +1,12 @@
+# Ignore build directories
+bin/
+obj/
+
+# Ignore Code::Blocks workspace files
+*.depend
+*.layout
+
+# Ignore temporary/system files
+*.exe
+*.o
+*.log
